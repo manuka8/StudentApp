@@ -37,24 +37,7 @@
   }
 }
 
-.main-container{
-  width:100%;
-  display: flex;
-  background-color: #61dafb;
-  
-}
-.students-list {
-  width: 50%;
-  background-color:darkgray;
-  color: rgb(0, 0, 0);
-}
-.student-details{
-  display: flex;
-}
-.student-details img{
-  width: 400px;
-  height: 400px;
-}
+
 
 .body h1{
   text-align: center;
